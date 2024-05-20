@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Indrajhere
 - 👀 I’m interested in learning new stuff.
-- 🌱 I’m currently learning Github.
+- 🌱 I’m currently learning Nextjs.
 - 💞️ I’m looking to collaborate on Web development.
 - 📫 How to reach me -> Just Try.
 
